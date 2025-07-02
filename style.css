@@ -58,14 +58,13 @@ h1 {
 }
 
 .input-box input::placeholder {
-  color: #ffffff83;
+  color: #61616179;
   font-weight: 500;
 }
 
 .input-box i {
   align-self: center;
   position: relative;
-  top: 4px;
   transform: translateX(-200%);
 }
 
@@ -185,14 +184,13 @@ h1 {
 }
 
 .input-box input::placeholder {
-  color: #ffffffb0;
+  color: #6161618f;
   font-weight: 500;
 }
 
 .input-box i {
   align-self: center;
   position: relative;
-  top: 2px;
   transform: translateX(-200%);
 }
 
